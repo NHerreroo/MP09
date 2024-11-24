@@ -1,4 +1,4 @@
-package TCP_UDP;
+package TCP_UDP.UpperCase;
 
 import java.io.IOException;
 import java.net.*;
